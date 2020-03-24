@@ -1,0 +1,15 @@
+. {
+  text-align: center;
+}
+
+.dice {
+  float: left;
+  width: 32px;
+  background: paleturquoise;
+  border: #999 3px solid;
+  padding: 10px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 5px;
+}
