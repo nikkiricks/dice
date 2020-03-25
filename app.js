@@ -1,5 +1,6 @@
 
 
+
 function rollDice(){
   var die1 = document.getElementById("die1")
   var die2 = document.getElementById("die2")
